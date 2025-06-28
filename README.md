@@ -113,4 +113,6 @@ shujaa{vim_trigger_master}
 -rw-rw-r-- 1 malisafi malisafi 1124 Jun 28 16:17 shadow
 ![Screenshot_2025-06-28_12_44_36](https://github.com/user-attachments/assets/ade13a10-9818-4d1a-bab0-5fa9f4cdb1b3)
 19
+john --wordlist=/usr/share/wordlists/rockyou.txt --format=sha512crypt unshadowed.txt
+20/home/examadmin/flag.txt
 
