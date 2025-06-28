@@ -1,4 +1,4 @@
-# felix-bett
+# felix-bett capture the flag 
 └─$ nmap -sV -Pn 44.202.86.42                                                
 Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-28 11:31 EDT              
 Nmap scan report for ec2-44-202-86-42.compute-1.amazonaws.com (44.202.86.42) 
